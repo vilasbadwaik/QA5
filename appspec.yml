@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /QA5
+  - source: /
     destination: /var/www/html/QA5
 hooks:
   BeforeInstall:
